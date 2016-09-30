@@ -1,3 +1,3 @@
 # tema-labor
 
-Proba gitezgetes
+valami mas
